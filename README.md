@@ -32,8 +32,8 @@ Built for DevStudio 2026 by Logitech, MX Read introduces spatial, multimodal not
 
 ### 1. Install the Application
 
-- Download the `MXRead.apk` file  
-- Install it on Meta Quest 2 or Meta Quest 3 using SideQuest or ADB  
+- Download the `MXRead.apk` file. Download the latest build from Google Drive: [Download MXRead.apk](https://drive.google.com/file/d/1au10NA7NNL2AtiGQaFhR7g2aLcU8NL5J/view?usp=sharing)
+- Install it on Meta Quest 2 or Meta Quest 3 using SideQuest or ADB
 
 ### 2. Prepare the Book
 
